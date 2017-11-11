@@ -1,2 +1,2 @@
 # MathAndDinosaurRocketLauncher
-Math and dinosaur rocket launcher.
+Through the power of dinosaur rocket launchers you will learn triganomnomnometry.
